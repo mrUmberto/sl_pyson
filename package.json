@@ -2,7 +2,7 @@
   "name": "sl-pyson",
   "version": "0.0.1",
   "description": "Pure javascript library for pyson expressions",
-  "main": "lib/pyson.js",
+  "main": "dist/pyson.js",
   "scripts": {
     "test": "jest",
     "build": "webpack"
