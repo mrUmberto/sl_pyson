@@ -1,6 +1,6 @@
 {
   "name": "sl-pyson",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "description": "Pure javascript library for pyson expressions",
   "main": "dist/pyson.js",
   "scripts": {
